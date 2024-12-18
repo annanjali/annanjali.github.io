@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Shopping</title>
+    <!-- Add Font Awesome CDN link to load the icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="../../Styles/shopping.css">
+</head>
+<body>
+
+<header>
+    <h1>Amazon Fashion Picks</h1>
+</header>
+
+<div class="product-container" id="product-container">
+    <!-- Amazon products will be loaded here -->
+</div>
+
+<footer>
+    <p>&copy; 2024 Anjali Rai - All Rights Reserved</p>
+</footer>
+
+<script src="../../Script/shopping.js"></script>
+
+<script>
+    // Load Amazon products
+    fetchAndDisplayProducts('../../resources/amazonproducts.json');
+</script>
+
+</body>
+</html>

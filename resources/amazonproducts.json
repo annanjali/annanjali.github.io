@@ -1,0 +1,49 @@
+{
+    "products": [
+        {
+            "name": "SHERRIF Women Polyurethane (PU) ",
+            "productLink": "https://amzn.to/41zNL3M",
+            "imageUrl": "../../resources/amazonimages/1.jpg"
+        },
+        {
+            "name": "Flat n Heels Womens Green Pumps",
+            "productLink": "https://amzn.to/3ZDN4E1",
+            "imageUrl": "../../resources/amazonimages/2.jpg"
+        },
+        {
+            "name": "BELLMANCO Women's Slingbacks",
+            "productLink": "https://amzn.to/4fkDStT",
+            "imageUrl": "../../resources/amazonimages/3.jpg"
+        },
+        {
+            "name": "Flat n Heels Womens Black Pumps",
+            "productLink": "https://amzn.to/4gxTziu",
+            "imageUrl": "../../resources/amazonimages/4.jpg"
+        },
+        {
+            "name": "CANVI Stylish Comfortable Women Sandals",
+            "productLink": "https://amzn.to/3Dd9OTE",
+            "imageUrl": "../../resources/amazonimages/5.jpg"
+        },
+        {
+            "name": "TRYME Ravishing Mules",
+            "productLink": "https://amzn.to/4gdjigm",
+            "imageUrl": "../../resources/amazonimages/6.jpg"
+        },
+        {
+            "name": "Shoetopia Embellished Front Studded Buckle",
+            "productLink": "https://amzn.to/49AKiUo",
+            "imageUrl": "../../resources/amazonimages/7.jpg"
+        },
+        {
+            "name": "GLO GLAMP Kitten Heels",
+            "productLink": "https://amzn.to/3ZSxaH2",
+            "imageUrl": "../../resources/amazonimages/8.jpg"
+        },
+        {
+            "name": "CetaphildryMoisturizer",
+            "productLink": "https://amzn.to/4iUxTz9",
+            "imageUrl": "../../resources/amazonimages/9.jpg"
+        }
+    ]
+}

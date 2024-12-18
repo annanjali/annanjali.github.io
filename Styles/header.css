@@ -1,0 +1,85 @@
+/* Header Styles */
+header {
+    background: #2d2d2d;
+    padding: 50px 0;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+}
+
+nav .logo h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+    color: #e3a857;
+    margin-bottom: 20px; /* Space between logo and navigation */
+}
+
+nav .nav-links {
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav .nav-links li {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+nav .nav-links a {
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+nav .nav-links a:hover {
+    color: #e3a857;
+}
+
+.container a {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column; /* Stack logo and nav items vertically */
+        align-items: center; /* Center the items */
+    }
+
+    nav .logo h1 {
+        font-size: 2rem;
+        margin-bottom: 20px; /* Space between logo and nav links */
+    }
+
+    nav .nav-links {
+        display: flex;
+        flex-direction: column; /* Stack the navigation items vertically */
+        align-items: center; /* Center nav items */
+        gap: 15px;
+        width: 100%; /* Ensure the nav items take full width */
+        padding-left: 0;
+    }
+
+    nav .nav-links li {
+        font-size: 1.5rem; /* Larger text for mobile view */
+    }
+
+    nav .nav-links a i {
+        margin-right: 10px; /* Add some space between the icon and the text */
+    }
+
+    /* Ensure buttons come in two rows */
+    .cta-button {
+        display: block; /* Makes each button take a full row */
+        width: 100%; /* Buttons should span full width */
+        margin-bottom: 10px; /* Space between the buttons */
+        text-align: center; /* Center the text inside the button */
+    }
+}

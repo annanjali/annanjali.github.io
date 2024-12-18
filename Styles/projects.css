@@ -1,0 +1,25 @@
+/* Projects Section */
+.projects {
+    background: #212121;
+    padding: 60px 0;
+}
+
+.project-card {
+    background-color: #333333;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.project-card h3 {
+    font-size: 1.8rem;
+    color: #e3a857;
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    font-size: 1.1rem;
+    color: #bbb;
+    margin-bottom: 10px;
+}

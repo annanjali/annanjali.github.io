@@ -1,0 +1,12 @@
+/* Contact Section */
+.contact {
+    background: #1e1e1e;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 1.2rem;
+    color: #bbb;
+    margin-bottom: 20px;
+}

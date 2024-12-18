@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "name": "SHERRIF Women Polyurethane (PU) ",
+            "productLink": "https://amzn.to/41zNL3M",
+            "imageUrl": "../../resources/myntraimages/1.jpg"
+        },
+        {
+            "name": "Flat n Heels Womens Green Pumps",
+            "productLink": "https://amzn.to/3ZDN4E1",
+            "imageUrl": "../../resources/myntraimages/2.jpg"
+        },
+        {
+            "name": "BELLMANCO Women's Slingbacks",
+            "productLink": "https://amzn.to/4fkDStT",
+            "imageUrl": "../../resources/myntraimages/3.jpg"
+        },
+        {
+            "name": "Flat n Heels Womens Black Pumps",
+            "productLink": "https://amzn.to/4gxTziu",
+            "imageUrl": "../../resources/myntraimages/4.jpg"
+        },
+        {
+            "name": "CANVI Stylish Comfortable Women Sandals",
+            "productLink": "https://amzn.to/3Dd9OTE",
+            "imageUrl": "../../resources/myntraimages/5.jpg"
+        }
+    ]
+}

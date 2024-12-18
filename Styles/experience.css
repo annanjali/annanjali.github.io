@@ -1,0 +1,30 @@
+/* Experience Section */
+.experience {
+    background-color: #282828;
+    padding: 60px 0;
+}
+
+.experience .job {
+    background: #333333;
+    margin-bottom: 40px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.experience h3 {
+    font-size: 1.8rem;
+    font-family: 'Poppins', sans-serif;
+    color: #e3a857;
+}
+
+.experience .job-title {
+    font-size: 1rem;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.experience .job-responsibilities li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
